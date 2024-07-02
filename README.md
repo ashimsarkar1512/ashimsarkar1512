@@ -17,7 +17,7 @@
 <br/>
 💬 Ask me about: JavaScript, React, Express.js, MongoDB, Node.js, Tailwind, HTML, CSS.
 <br/>
-📫 How to reach me: [Your email or contact information]
+📫 How to reach me: ashimsarkar5558@gmail.com,01309660175
 <br/>
 😄 Pronouns: He/Him
 <br/>
