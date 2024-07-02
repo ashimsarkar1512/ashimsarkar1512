@@ -11,13 +11,17 @@
 
 <div>
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ashimsarkar1512/ashimsarkar1512/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🔭 I’m currently working on: Exploring new projects to apply my skills.
+<br/>
+🌱 I’m currently learning: Next.js to enhance my front-end development capabilities.
+<br/>
+💬 Ask me about: JavaScript, React, Express.js, MongoDB, Node.js, Tailwind, HTML, CSS.
+<br/>
+📫 How to reach me: [Your email or contact information]
+<br/>
+😄 Pronouns: He/Him
+<br/>
+⚡ Fun fact: I love diving into new technologies and continuously improving my skill set.
 
  </div>
  
