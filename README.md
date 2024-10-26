@@ -48,6 +48,12 @@
 
 <hr/>
 
+![Ashim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashimsarkar1512&custom_title=Ashim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+
+
 <br/>
 
 <div align="center">
@@ -55,8 +61,6 @@
 </div>
 
 <br/>
-
-
 
 
 
