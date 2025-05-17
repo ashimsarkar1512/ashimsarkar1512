@@ -1,4 +1,4 @@
-![logo](https://github.com/ashimsarkar1512/ashimsarkar1512/blob/main/1.png)
+![logo](https://github.com/ashimsarkar1512/ashimsarkar1512/blob/main/ashim.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ashimsarkar1512.ashimsarkar1512" />
 
 <h1 align="center">
