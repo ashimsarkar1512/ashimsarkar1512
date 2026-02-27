@@ -60,17 +60,27 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ashimsarkar1512&theme=react&hide_border=true&background=0D1117&show_icons=true" />
+<table width="100%" align="center">
+<tr>
+<td align="center">
+    <img width="95%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ashimsarkar1512?cardType=level&theme=radical" alt="GitHub Stats"/>
+</td>
+<td align="center">
+    <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=ashimsarkar1512&theme=radical" />
+</td>
+</tr>
+</table>
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=ashimsarkar1512&theme=react&hide_border=true&background=0D1117" />
 
-<br/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimsarkar1512&theme=react&hide_border=true&background=0D1117&layout=compact" />
-
-</div>
 
 ---
 
