@@ -61,22 +61,22 @@
 # 📊 GitHub Stats
 
 <table width="100%" align="center">
-<tr>
-<td>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=radical" alt="Profile Summary">
-</td>
-</tr>
+  <tr>
+    <td>
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=radical&count_private=true" alt="Profile Summary">
+    </td>
+  </tr>
 </table>
 
 <table width="100%" align="center">
-<tr>
-<td align="center">
-    <img width="95%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ashimsarkar1512?cardType=level&theme=radical" alt="GitHub Stats"/>
-</td>
-<td align="center">
-    <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=ashimsarkar1512&theme=radical" />
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img width="95%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ashimsarkar1512?cardType=level&theme=radical&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=ashimsarkar1512&theme=radical&count_private=true" />
+    </td>
+  </tr>
 </table>
 
 
