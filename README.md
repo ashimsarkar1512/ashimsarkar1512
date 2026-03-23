@@ -63,7 +63,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=radical" alt="Profile Summary">
+  <img width="100%" src="https://github-profile-summary-cards-khaki.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=tokyonight" alt="Profile Summary">
 </td>
 </tr>
 </table>
