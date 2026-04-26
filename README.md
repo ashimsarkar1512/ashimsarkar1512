@@ -60,13 +60,30 @@
 
 # 📊 GitHub Stats
 
-<table width="100%" align="center">
+<!-- <table width="100%" align="center">
 <tr>
 <td>
   <img width="100%" src="https://github-profile-summary-cards-khaki.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=tokyonight" alt="Profile Summary">
 </td>
 </tr>
-</table>
+</table>  -->
+
+
+
+ <table width="100%" align="center" >
+<tr>
+<td align="center">
+    <img width="100%" src="https://github-profile-summary-cards-khaki.vercel.app/api/cards/profile-details?username=ashimsarkar1512&theme=tokyonight"/>
+</td>
+<td align="center">
+    <img width="100%"
+     style="height:200px; "
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ashimsarkar1512&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+     alt="Languages Used" />
+</td>
+</tr>
+</table> 
+
 
 <table width="100%" align="center">
 <tr>
@@ -74,7 +91,9 @@
     <img width="95%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ashimsarkar1512?cardType=level&theme=radical" alt="GitHub Stats"/>
 </td>
 <td align="center">
-    <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=ashimsarkar1512&theme=radical" />
+  <img width="95%"
+src="https://streak-stats.demolab.com?user=ashimsarkar1512&theme=radical"
+alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -88,6 +107,7 @@
 
 ![Ashim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashimsarkar1512&custom_title=Ashim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
 
----
+--- 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>  
