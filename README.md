@@ -7,14 +7,17 @@
 </h1>
 
 ---
-
 ## 👀 Current Overview
 
-🎯 Passionate about building scalable web applications and delivering smooth user experiences.  
-🧠 I enjoy solving real-world problems through code and continuously improving my development skills.  
-🛠️ Focused on building efficient backends, interactive UIs, and learning modern technologies.  
-📈 Dedicated to learning, collaborating, and growing as a professional developer.  
-🚀 Always excited to work on meaningful projects that make a difference.
+🎯 Frontend Developer focused on building scalable, responsive, and user-centric web applications.
+
+🧠 Experienced in solving real-world problems using React.js, Next.js, TypeScript, and modern web technologies.
+
+🛠️ Skilled in developing interactive UIs, Admin Dashboards, RESTful API integrations, and business-focused applications.
+
+📈 Continuously expanding my full-stack development skills with Node.js, Express.js, NestJS, PostgreSQL, Prisma, and Docker.
+
+🚀 Passionate about learning, collaborating, building meaningful products, and continuously improving as a developer.
 
 ---
 
