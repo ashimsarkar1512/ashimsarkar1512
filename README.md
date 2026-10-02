@@ -107,7 +107,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-    <img width="95%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ashimsarkar1512?cardType=level&theme=radical" alt="GitHub Stats"/>
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=ashimsarkar1512&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td align="center">
   <img width="95%"
